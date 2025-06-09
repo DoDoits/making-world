@@ -18,6 +18,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -38,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master1",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/leghin/Desktop/huoguodianguanli",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -76,7 +79,7 @@
       <workItem from="1749395125746" duration="261000" />
       <workItem from="1749436214389" duration="2623000" />
       <workItem from="1749449339329" duration="3000" />
-      <workItem from="1749477999385" duration="2543000" />
+      <workItem from="1749477999385" duration="2945000" />
     </task>
     <task id="LOCAL-00001" summary="外卖">
       <option name="closed" value="true" />
@@ -142,7 +145,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749479551554</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="外卖">
+      <option name="closed" value="true" />
+      <created>1749480842206</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1749480842206</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +170,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master1" />
+                        <option value="origin/master1" />
                       </list>
                     </value>
                   </entry>
